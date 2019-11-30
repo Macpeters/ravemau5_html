@@ -8,7 +8,7 @@ This is a hobby game project I tinker with when I have the time and inclination.
  **Controls:** I built it to be mobile friendly (there's a soft joystick), but I mostly test it on my laptop, so you might prefer using the arrow and space keys to move around
 
 
-**Current Build:** [Playable Online Here](https://trusting-albattani-040749.netlify.com/)
+**Current Build:** [Playable Online Here](https://ravemau5.netlify.com)
 
 
 ## Plans
