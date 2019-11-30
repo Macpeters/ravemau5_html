@@ -13,7 +13,7 @@ This is a hobby game project I tinker with when I have the time and inclination.
 
 ## Plans
 * the slime baddies can't be killed currently - I should give Ravemau5 some kind of laser weapon to shoot with
-* graphics: they all need an overhaul
+* graphics: they all need an overhaul - working on learning how to animate so I can do that properly
 * I made it so you can unlock worlds/levels/characters, but that's currently wide open.  I'm not sure if I'll put that stuff back, since I'm unlikely to monetise this game
 
 
